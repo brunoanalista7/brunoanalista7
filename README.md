@@ -3,7 +3,7 @@
 <h1 align="center">Bruno Analista!</h1>
 
 <p align="center">
-  💻 Analista e Desenvolvedor <br>
+  💻 Analista e Programador <br>
   
 </p>
 
