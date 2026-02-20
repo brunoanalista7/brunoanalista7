@@ -1,6 +1,6 @@
 <!-- Perfil do GitHub - Bruno Analista -->
 
-<h1 align="center">Bruno Analista!</h1>
+<h1 align="center">Bruno</h1>
 
 <p align="center">
   💻 Analista e Programador <br>
